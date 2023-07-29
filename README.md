@@ -8,7 +8,7 @@ Section A:
 Section B:
 
 - Class Time: 3:30pm-4:45pm Tue Thu
-- Location: Green Center Petroleum (PAT) Hall
+- Location: Green Center Petroleum (PET) Hall
 
 
 ## Instructors
