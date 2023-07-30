@@ -45,5 +45,5 @@ TA office hours will be posted.
 
 ## Syllabus
 
-See syllabus.pdf for detailed course info
+See syllabus.pdf on github/Canvas for detailed course info
 
