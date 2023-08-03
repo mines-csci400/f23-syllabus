@@ -16,7 +16,7 @@ Section B:
 Section A: Tolga Can, Teaching Professor of CS
 
 - Contact: tolgacan (at) mines (dot) edu
-- Office Hours: Wednesdays @12-1pm, Thursdays and Fridays @10:30-11:30am
+- Office Hours: Wednesdays @12-1pm, Thursdays and Fridays @10:30-11:30am at CTLM 246K
 
 Section B: Greg Davoll, Adjunct Instructor
 
