@@ -21,7 +21,7 @@ Section A: Tolga Can, Teaching Professor of CS
 Section B: Greg Davoll, Adjunct Instructor
 
 - Contact: greg.davoll (at) gmail (dot) com 
-- Office Hours: TBD
+- Office Hours: Tuesdays @1-2pm, location to be posted
 
 ## Teaching Assistants (TA)
 
