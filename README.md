@@ -37,7 +37,7 @@ Ronan Rael
 
 - Contact: rtrael (at) mines (dot) edu
 
-Sabestian Willowhawk
+Sebastian Willowhawk
 
 - Contact: swillowhawk (at) mines (dot) edu
 
