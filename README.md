@@ -21,7 +21,7 @@ Section A: Tolga Can, Teaching Professor of CS
 Section B: Greg Davoll, Adjunct Instructor
 
 - Contact: greg.davoll (at) gmail (dot) com 
-- Office Hours: Tuesdays @1-2pm, location to be posted
+- Office Hours: Tuesdays @1-2pm, at CTLM 246D
 
 ## Teaching Assistants (TA)
 
@@ -40,6 +40,10 @@ Ronan Rael
 Sebastian Willowhawk
 
 - Contact: swillowhawk (at) mines (dot) edu
+
+Sharfi Rahman
+
+- Contact: sharfirahman (at) mines (dot) edu
 
 TA office hours will be posted.
 
